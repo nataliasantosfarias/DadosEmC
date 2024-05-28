@@ -3,7 +3,7 @@
 #include <string.h>
 
 // Alunos: [Ana Paula Sampaio], [Natália Farias Santos]
-
+// O código opera como uma pilha, onde o último carro que entra é o primeiro que sai
 typedef struct tipo_carro {
     char nome[100];
     char cpf[12];
