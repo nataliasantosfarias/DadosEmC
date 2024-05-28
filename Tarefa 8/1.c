@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Desenvolvido por: [Seu Nome], [Outro Nome]
+// Alunos: [Ana Paula Sampaio], [Natália Farias Santos]
 
 typedef struct tipo_carro {
     char nome[100];
